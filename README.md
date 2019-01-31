@@ -10,6 +10,7 @@ Problem 1: (Refer to Loss_&_Accuracy.xlsx spreadsheet attached)
 * Activation functions = ‘relu’ & ‘softmax’
 * Dropout rates = normal
 * Optimizer = ‘rmsprop’
+
 This model provides an accuracy of 50.05% which outputs to be max out of the 15 experiments done on parameters.
 
 2.	The model isn’t that good. This model underfits data and thus requires a lot of hyperparameters to be tuned. I would improve this model by playing around with the parameters. But even after that a stage comes where the accuracy can reach maximum till 54-55% and the data overfits.
